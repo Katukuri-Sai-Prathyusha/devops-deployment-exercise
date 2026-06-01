@@ -14,7 +14,7 @@ def home():
 
     <h1>DevOps CI/CD Deployment Exercise</h1>
 
-    <h2>Version: v1.1 - Updated by developer</h2>
+    <h2>Version: v1.2 - Auto deployed by GitHub Actions</h2>
 
     <p>Status: Running successfully</p>
 
